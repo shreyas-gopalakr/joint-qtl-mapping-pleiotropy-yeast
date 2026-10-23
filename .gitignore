@@ -39,3 +39,13 @@ Thumbs.db
 *.bam
 *.sam
 *.gz
+
+# ==========================================
+# 6. R Junk
+# ==========================================
+.Rhistory
+.RData
+.Ruserdata
+.Rprofile
+*-history.html
+*-namespaces.html
