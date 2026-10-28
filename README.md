@@ -11,5 +11,5 @@ After fitness inference, the next step in our pipeline is QTL inference. The scr
 following github repo:
 https://github.com/efenton32/qtl_tools
 
-Following QTL inference, we annotate each QTL (and each SNP in the cross) features such as gene name, mutation type, gene essentiality, gradient-ordered effect sizes,
-U-shaped effect sizes, etc.  
+Following QTL inference, we annotate each QTL (and each SNP in the cross) features such as gene name, mutation type, gene essentiality, gradient-orderedness of effect sizes,
+U-shapedness of effect sizes, etc. The scripts for this purpose can be found in the 'QTL annotation' folder. 
